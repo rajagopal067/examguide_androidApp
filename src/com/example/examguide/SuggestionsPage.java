@@ -24,27 +24,27 @@ public class SuggestionsPage extends Activity {
 		setupActionBar();
 		TextView speak12=(TextView) findViewById(R.id.speaking12);
 		speak12.setText(Html.fromHtml(
-				"<a href=\"http://www.youtube.com/watch?v=K682Oune_YM\">Speaking Questions 1 & 2</a>"));
+				"<a href=\"https://www.youtube.com/watch?v=OrZoJrivGew\">Speaking Questions 1 & 2</a>"));
 		speak12.setMovementMethod(LinkMovementMethod.getInstance());
 		
 		TextView speak3=(TextView) findViewById(R.id.speaking3);
 		speak3.setText(Html.fromHtml(
-				"<a href=\"http://www.youtube.com/watch?v=J-n_nOBDLd4\">Speaking Questions 3</a>"));
+				"<a href=\"https://www.youtube.com/watch?v=jhpmFocy46Y\">Speaking Questions 3</a>"));
 		speak3.setMovementMethod(LinkMovementMethod.getInstance());
 		
 		TextView speak4=(TextView) findViewById(R.id.speaking4);
 		speak4.setText(Html.fromHtml(
-				"<a href=\"http://www.youtube.com/watch?v=xMUWevT3o8A\">Speaking Questions 4</a>"));
+				"<a href=\"https://www.youtube.com/watch?v=XzmkhKBqNYo\">Speaking Questions 4</a>"));
 		speak4.setMovementMethod(LinkMovementMethod.getInstance());
 		
 		TextView speak5=(TextView) findViewById(R.id.speaking5);
 		speak5.setText(Html.fromHtml(
-				"<a href=\"http://www.youtube.com/watch?v=O2dU1JqlWS0\">Speaking Questions 5</a>"));
+				"<a href=\"https://www.youtube.com/watch?v=k7eYRJszDW0\">Speaking Questions 5</a>"));
 		speak5.setMovementMethod(LinkMovementMethod.getInstance());
 		
 		TextView speak6=(TextView) findViewById(R.id.speaking6);
 		speak6.setText(Html.fromHtml(
-				"<a href=\"http://www.youtube.com/watch?v=4uaQbf-t_gg\">Speaking Questions 6</a>"));
+				"<a href=\"https://www.youtube.com/watch?v=k7eYRJszDW0\">Speaking Questions 6</a>"));
 		speak6.setMovementMethod(LinkMovementMethod.getInstance());
 
 	}
