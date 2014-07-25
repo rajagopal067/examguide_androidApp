@@ -56,25 +56,25 @@ public class NerdPage extends Activity {
 		
 		final TextView pracTest1=(TextView) findViewById(R.id.pracTest1);
 		pracTest1.setText(Html.fromHtml(
-				"<a href=\"http://www.examenglish.com/TOEFL/TOEFL_iBt.html\">Practice Test1</a>"));
+				"<a href=\"https://www.youtube.com/watch?v=o4Cku50eEwo</a>"));
 		pracTest1.setMovementMethod(LinkMovementMethod.getInstance());
 		pracTest1.setTextSize(20);
 		
 		final TextView pracTest2=(TextView) findViewById(R.id.pracTest2);
 		pracTest2.setText(Html.fromHtml
-				("<a href=\"http://www.testden.com/challenge/free-toefl.asp?refererid=goog2&gclid=CNCby4jpp7oCFacl4godfnEApA\">Practice Test2</a>"));
+				("<a href=\"https://www.youtube.com/watch?v=RotyYqaOT68\">Practice Test2</a>"));
 		pracTest2.setMovementMethod(LinkMovementMethod.getInstance());
 		pracTest2.setTextSize(20);
 		
 		final TextView pracTest3=(TextView) findViewById(R.id.pracTest3);
 		pracTest3.setText(Html.fromHtml
-				("<a href=\"http://www.stuff.co.uk/toefl_structure_2.htm\">Practice Test3</a>"));
+				("<a href=\"https://www.youtube.com/watch?v=RotyYqaOT68\">Practice Test3</a>"));
 		pracTest3.setMovementMethod(LinkMovementMethod.getInstance());
 		pracTest3.setTextSize(20);
 		
 		final TextView pracTest4=(TextView) findViewById(R.id.pracTest4);
 		pracTest4.setText(Html.fromHtml
-				("<a href=\"http://www.4tests.com/exams/questions.asp?exid=20986406&googlebot=57&beta=1\">Practice Test4</a>"));
+				("<a href=\"https://www.youtube.com/watch?v=OrZoJrivGew\">Practice Test4</a>"));
 		pracTest4.setMovementMethod(LinkMovementMethod.getInstance());
 		pracTest4.setTextSize(20);
 		
